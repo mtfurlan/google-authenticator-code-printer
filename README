@@ -1,0 +1,7 @@
+# google authenticator database reader
+
+Save /data/data/com.google.android.apps.authenticator2/databases/databases to this dir
+```
+pip install -r requirements.txt
+./codes.py
+```
